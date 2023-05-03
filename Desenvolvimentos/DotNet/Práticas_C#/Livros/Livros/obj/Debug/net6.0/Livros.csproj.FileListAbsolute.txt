@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\bin\Debug\net6.0\Livros.exe
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\bin\Debug\net6.0\Livros.deps.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\bin\Debug\net6.0\Livros.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\bin\Debug\net6.0\Livros.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\bin\Debug\net6.0\Livros.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\obj\Debug\net6.0\Livros.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\obj\Debug\net6.0\Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\obj\Debug\net6.0\Livros.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\obj\Debug\net6.0\Livros.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\obj\Debug\net6.0\Livros.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\obj\Debug\net6.0\Livros.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\obj\Debug\net6.0\refint\Livros.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\obj\Debug\net6.0\Livros.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\obj\Debug\net6.0\Livros.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Livros\Livros\obj\Debug\net6.0\ref\Livros.dll

@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\bin\Debug\net6.0\Alíquota.exe
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\bin\Debug\net6.0\Alíquota.deps.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\bin\Debug\net6.0\Alíquota.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\bin\Debug\net6.0\Alíquota.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\bin\Debug\net6.0\Alíquota.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\obj\Debug\net6.0\Alíquota.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\obj\Debug\net6.0\Alíquota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\obj\Debug\net6.0\Alíquota.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\obj\Debug\net6.0\Alíquota.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\obj\Debug\net6.0\Alíquota.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\obj\Debug\net6.0\Alíquota.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\obj\Debug\net6.0\refint\Alíquota.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\obj\Debug\net6.0\Alíquota.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\obj\Debug\net6.0\Alíquota.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alíquota\Alíquota\obj\Debug\net6.0\ref\Alíquota.dll

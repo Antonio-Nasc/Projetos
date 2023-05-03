@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\bin\Debug\net6.0\Cachorro-Quente.exe
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\bin\Debug\net6.0\Cachorro-Quente.deps.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\bin\Debug\net6.0\Cachorro-Quente.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\bin\Debug\net6.0\Cachorro-Quente.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\bin\Debug\net6.0\Cachorro-Quente.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\obj\Debug\net6.0\Cachorro-Quente.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\obj\Debug\net6.0\Cachorro-Quente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\obj\Debug\net6.0\Cachorro-Quente.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\obj\Debug\net6.0\Cachorro-Quente.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\obj\Debug\net6.0\Cachorro-Quente.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\obj\Debug\net6.0\Cachorro-Quente.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\obj\Debug\net6.0\refint\Cachorro-Quente.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\obj\Debug\net6.0\Cachorro-Quente.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\obj\Debug\net6.0\Cachorro-Quente.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cachorro-Quente\Cachorro-Quente\obj\Debug\net6.0\ref\Cachorro-Quente.dll

@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+    width: 100%;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 45px;
+    font-size: 20px;
+    padding: 10px;
+    background-color: cadetblue;
+}
+table{
+    border-collapse: collapse;
+    width: 99%;
+    margin: 5px;
+}
+th{
+    background-color: #292929;
+    color: white;
+}
+th, td{
+    border: 2px solid white;
+    padding: 10px;
+}
+td{
+    background-color: rgb(233, 224, 224);
+}
+.acao{
+    text-align: center;
+}
+.item-acao{
+    padding: 1px 3px;
+    text-align: center;
+}
+
+
+re:nth-child(even) {
+    background-color: rgb(228, 228, 228);
+}
+div#container{
+    overflow-x: auto;
+}
+.button{
+    background-color: rgb(28, 102, 238);
+    color: white;
+    font-size: 16px;
+    padding: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.button:hover{
+    background: linear-gradient(135grad, rgb(58, 116, 163), rgb(12, 113, 160) );
+}
+
+@media(max-width: 580px){
+    .button{
+        text-align: center;
+    }
+    .acao{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 6px;
+    }
+    .item-acao{
+        padding: 1px 3px;
+        
+    }
+
+}

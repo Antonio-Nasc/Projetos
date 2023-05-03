@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Média notas com array/1.0.0": {
+        "runtime": {
+          "Média notas com array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Média notas com array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

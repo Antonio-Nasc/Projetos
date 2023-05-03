@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\bin\Debug\net6.0\sequencia Fibonacci.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\bin\Debug\net6.0\sequencia Fibonacci.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\bin\Debug\net6.0\sequencia Fibonacci.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\bin\Debug\net6.0\sequencia Fibonacci.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\bin\Debug\net6.0\sequencia Fibonacci.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\obj\Debug\net6.0\sequencia Fibonacci.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\obj\Debug\net6.0\sequencia Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\obj\Debug\net6.0\sequencia Fibonacci.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\obj\Debug\net6.0\sequencia Fibonacci.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\obj\Debug\net6.0\sequencia Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\obj\Debug\net6.0\sequencia Fibonacci.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\obj\Debug\net6.0\refint\sequencia Fibonacci.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\obj\Debug\net6.0\sequencia Fibonacci.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\obj\Debug\net6.0\sequencia Fibonacci.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\sequencia Fibonacci\obj\Debug\net6.0\ref\sequencia Fibonacci.dll

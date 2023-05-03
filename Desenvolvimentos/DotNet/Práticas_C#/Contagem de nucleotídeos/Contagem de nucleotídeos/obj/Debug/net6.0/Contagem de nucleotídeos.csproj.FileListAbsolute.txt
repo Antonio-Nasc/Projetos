@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\bin\Debug\net6.0\Contagem de nucleotídeos.exe
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\bin\Debug\net6.0\Contagem de nucleotídeos.deps.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\bin\Debug\net6.0\Contagem de nucleotídeos.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\bin\Debug\net6.0\Contagem de nucleotídeos.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\bin\Debug\net6.0\Contagem de nucleotídeos.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\obj\Debug\net6.0\Contagem de nucleotídeos.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\obj\Debug\net6.0\Contagem de nucleotídeos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\obj\Debug\net6.0\Contagem de nucleotídeos.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\obj\Debug\net6.0\Contagem de nucleotídeos.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\obj\Debug\net6.0\Contagem de nucleotídeos.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\obj\Debug\net6.0\Contagem de nucleotídeos.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\obj\Debug\net6.0\refint\Contagem de nucleotídeos.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\obj\Debug\net6.0\Contagem de nucleotídeos.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\obj\Debug\net6.0\Contagem de nucleotídeos.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Contagem de nucleotídeos\Contagem de nucleotídeos\obj\Debug\net6.0\ref\Contagem de nucleotídeos.dll

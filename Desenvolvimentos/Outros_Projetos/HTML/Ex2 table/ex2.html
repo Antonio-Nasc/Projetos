@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+</head>
+<body>
+    <h3>Cadastro da liga dos astronautas</h3>
+    <form action="">
+        <label for="nome">Nome: </label>
+        <input type="text" name="nome" id="nome" required><br><br>
+        <label for="email">Email: </label>
+        <input type="email" name="email" id="email">
+        <label for="password"> - Password: </label>
+        <input type="password" name="password" id="password" required><br><br>
+        <label for="data">Data de nascimento: </label>
+        <input type="date" name="data" id="data">
+        <label for="arquivo"> - Foto: </label>
+        <input type="file" name="arquivo" id="arquivo"><br><br>
+        <label for="nacionalidade">Nacionalidade: </label>
+        <select name="nacionalidade" id="nacionalidade">
+            <option value="russo">Russo</option>
+            <option value="americano">Americano</option>
+            <option value="brasileiro">Brasileiro</option>
+        </select> - 
+        <label for="genero">Genero: F</label>
+        <input type="radio" name="gender" id="f">
+        <label for="m">M</label>
+        <input type="radio" name="gender" id="m">
+        <p>Suas principais qualidades:</p>
+        <label for="Inteligência">Inteligência</label>
+        <input type="checkbox" name="Inteligência" id="Inteligência"> | 
+        <label for="resiliencia">Resiliência</label>
+        <input type="checkbox" name="resiliencia" id="resiliencia"> | 
+        <label for="preparo">Preparo Físico</label>
+        <input type="checkbox" name="preparo" id="preparo"> | 
+        <label for="educação">Educação</label>
+        <input type="checkbox" name="educação" id="educação"> |<br><br>
+        <textarea name="descricao" id="descricao" cols="30" rows="10" placeholder="Por que você gostaria de ser um astronauta?"></textarea><br><br>
+        <input type="submit" value="criar">
+    </form>
+    
+</body>
+</html>

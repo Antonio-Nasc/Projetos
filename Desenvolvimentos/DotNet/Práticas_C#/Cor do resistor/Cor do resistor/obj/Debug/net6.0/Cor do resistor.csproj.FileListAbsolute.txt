@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\bin\Debug\net6.0\Cor do resistor.exe
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\bin\Debug\net6.0\Cor do resistor.deps.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\bin\Debug\net6.0\Cor do resistor.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\bin\Debug\net6.0\Cor do resistor.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\bin\Debug\net6.0\Cor do resistor.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\obj\Debug\net6.0\Cor do resistor.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\obj\Debug\net6.0\Cor do resistor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\obj\Debug\net6.0\Cor do resistor.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\obj\Debug\net6.0\Cor do resistor.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\obj\Debug\net6.0\Cor do resistor.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\obj\Debug\net6.0\Cor do resistor.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\obj\Debug\net6.0\refint\Cor do resistor.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\obj\Debug\net6.0\Cor do resistor.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\obj\Debug\net6.0\Cor do resistor.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Cor do resistor\Cor do resistor\obj\Debug\net6.0\ref\Cor do resistor.dll

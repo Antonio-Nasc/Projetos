@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\bin\Debug\net6.0\Alunos com vetor.exe
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\bin\Debug\net6.0\Alunos com vetor.deps.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\bin\Debug\net6.0\Alunos com vetor.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\bin\Debug\net6.0\Alunos com vetor.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\bin\Debug\net6.0\Alunos com vetor.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\obj\Debug\net6.0\Alunos com vetor.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\obj\Debug\net6.0\Alunos com vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\obj\Debug\net6.0\Alunos com vetor.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\obj\Debug\net6.0\Alunos com vetor.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\obj\Debug\net6.0\Alunos com vetor.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\obj\Debug\net6.0\Alunos com vetor.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\obj\Debug\net6.0\refint\Alunos com vetor.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\obj\Debug\net6.0\Alunos com vetor.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\obj\Debug\net6.0\Alunos com vetor.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Alunos com vetor\Alunos com vetor\obj\Debug\net6.0\ref\Alunos com vetor.dll

@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: #c8902b;
+    font-family: 'Open Sans', sans-serif;
+   
+}
+.div1{
+    display: flex;
+    justify-content: center;
+        
+}
+.lista_cabecalho{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 25px 0;
+    font-size: 13px;
+    font-weight: bolder;
+    list-style-type: none;
+    
+    
+}
+.buttonHeader{
+   
+}
+.buttonHeader:hover{
+    border-color: #ff0044;
+}
+
+

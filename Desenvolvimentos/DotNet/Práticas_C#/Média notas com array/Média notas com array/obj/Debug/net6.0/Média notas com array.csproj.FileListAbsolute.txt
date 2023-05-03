@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\bin\Debug\net6.0\Média notas com array.exe
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\bin\Debug\net6.0\Média notas com array.deps.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\bin\Debug\net6.0\Média notas com array.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\bin\Debug\net6.0\Média notas com array.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\bin\Debug\net6.0\Média notas com array.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\obj\Debug\net6.0\Média notas com array.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\obj\Debug\net6.0\Média notas com array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\obj\Debug\net6.0\Média notas com array.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\obj\Debug\net6.0\Média notas com array.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\obj\Debug\net6.0\Média notas com array.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\obj\Debug\net6.0\Média notas com array.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\obj\Debug\net6.0\refint\Média notas com array.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\obj\Debug\net6.0\Média notas com array.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\obj\Debug\net6.0\Média notas com array.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Média notas com array\Média notas com array\obj\Debug\net6.0\ref\Média notas com array.dll

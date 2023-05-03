@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\obj\Debug\net6.0\LojinhaDeJogos.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\obj\Debug\net6.0\LojinhaDeJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\obj\Debug\net6.0\LojinhaDeJogos.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\obj\Debug\net6.0\LojinhaDeJogos.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\obj\Debug\net6.0\LojinhaDeJogos.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\bin\Debug\net6.0\LojinhaDeJogos.exe
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\bin\Debug\net6.0\LojinhaDeJogos.deps.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\bin\Debug\net6.0\LojinhaDeJogos.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\bin\Debug\net6.0\LojinhaDeJogos.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\bin\Debug\net6.0\LojinhaDeJogos.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\obj\Debug\net6.0\LojinhaDeJogos.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\obj\Debug\net6.0\refint\LojinhaDeJogos.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\obj\Debug\net6.0\LojinhaDeJogos.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\obj\Debug\net6.0\LojinhaDeJogos.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\LojinhaDeJogos\LojinhaDeJogos\obj\Debug\net6.0\ref\LojinhaDeJogos.dll

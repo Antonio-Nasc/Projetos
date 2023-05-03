@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="form.css">
+    <title>Cadastro</title>
+</head>
+<body>
+    <div class="container">
+        <div class="title">Cadastre-se</div>
+        <form action="#">
+            <div class="user-details">
+                <div class="input-box">
+                    <span class="details">Nome completo</span>
+                    <input type="text" name="details" id="details" placeholder="Digite seu nome completo" required>
+                </div>
+                <div class="input-box">
+                    <span class="details">E-mail</span>
+                    <input type="email" name="email" id="email" placeholder="Digite seu e-mail" required>
+                </div>
+                <div class="input-box">
+                    <span class="details">Telefone</span>
+                    <input type="tel" name="telefone" id="telefone" placeholder="(xx)xxxx-xxxx" required>
+                </div>
+                <div class="input-box">
+                    <span class="details">Valor da mensalidade</span>
+                    <input type="number" name="telefone" id="telefone" placeholder="R$" required>
+                </div>
+                <div class="input-box">
+                    <span class="details">Senha</span>
+                    <input type="password" name="senha" id="senha" placeholder="Digite sua senha" required>
+                </div>
+                <div class="input-box">
+                    <span class="details">Observação</span>
+                    <input type="text" name="observacao" id="observacao" placeholder="..." required>
+                </div>
+            </div>
+            <div class="situacao-details">
+                <span class="situacao-title">Situação</span>
+                <div class="categoria">
+                    <label for="situa">
+                        <input type="radio" name="situ" id="situa">
+                        <span class="situacao">Ativo</span>
+                    </label>
+                    <label for="situas">
+                        <input type="radio" name="situ" id="situas">
+                        <span class="situacao">Inativo</span>
+                    </label>
+                </div>
+            </div>
+            <div class="button">
+                <a href="index.html"></a>
+                <input type="submit" value="Register">
+            </div>
+        </form>
+    </div>
+</body>
+</html>

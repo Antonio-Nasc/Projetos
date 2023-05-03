@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\bin\Debug\net6.0\Estudantes.exe
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\bin\Debug\net6.0\Estudantes.deps.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\bin\Debug\net6.0\Estudantes.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\bin\Debug\net6.0\Estudantes.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\bin\Debug\net6.0\Estudantes.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\obj\Debug\net6.0\Estudantes.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\obj\Debug\net6.0\Estudantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\obj\Debug\net6.0\Estudantes.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\obj\Debug\net6.0\Estudantes.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\obj\Debug\net6.0\Estudantes.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\obj\Debug\net6.0\Estudantes.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\obj\Debug\net6.0\refint\Estudantes.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\obj\Debug\net6.0\Estudantes.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\obj\Debug\net6.0\Estudantes.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Estudantes\Estudantes\obj\Debug\net6.0\ref\Estudantes.dll

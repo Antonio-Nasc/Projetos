@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\bin\Debug\net6.0\AnaliseDeNumeros.exe
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\bin\Debug\net6.0\AnaliseDeNumeros.deps.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\bin\Debug\net6.0\AnaliseDeNumeros.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\bin\Debug\net6.0\AnaliseDeNumeros.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\bin\Debug\net6.0\AnaliseDeNumeros.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\obj\Debug\net6.0\AnaliseDeNumeros.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\obj\Debug\net6.0\AnaliseDeNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\obj\Debug\net6.0\AnaliseDeNumeros.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\obj\Debug\net6.0\AnaliseDeNumeros.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\obj\Debug\net6.0\AnaliseDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\obj\Debug\net6.0\AnaliseDeNumeros.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\obj\Debug\net6.0\refint\AnaliseDeNumeros.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\obj\Debug\net6.0\AnaliseDeNumeros.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\obj\Debug\net6.0\AnaliseDeNumeros.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\AnaliseDeNumeros\AnaliseDeNumeros\obj\Debug\net6.0\ref\AnaliseDeNumeros.dll

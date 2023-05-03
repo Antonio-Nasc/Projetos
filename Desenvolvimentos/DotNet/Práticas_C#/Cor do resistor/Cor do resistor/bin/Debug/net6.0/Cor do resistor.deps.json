@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cor do resistor/1.0.0": {
+        "runtime": {
+          "Cor do resistor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cor do resistor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

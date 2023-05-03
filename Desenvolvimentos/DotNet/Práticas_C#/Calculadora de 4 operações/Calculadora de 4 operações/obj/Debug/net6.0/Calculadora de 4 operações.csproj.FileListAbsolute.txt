@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\bin\Debug\net6.0\Calculadora de 4 operações.exe
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\bin\Debug\net6.0\Calculadora de 4 operações.deps.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\bin\Debug\net6.0\Calculadora de 4 operações.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\bin\Debug\net6.0\Calculadora de 4 operações.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\bin\Debug\net6.0\Calculadora de 4 operações.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\obj\Debug\net6.0\Calculadora de 4 operações.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\obj\Debug\net6.0\Calculadora de 4 operações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\obj\Debug\net6.0\Calculadora de 4 operações.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\obj\Debug\net6.0\Calculadora de 4 operações.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\obj\Debug\net6.0\Calculadora de 4 operações.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\obj\Debug\net6.0\Calculadora de 4 operações.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\obj\Debug\net6.0\refint\Calculadora de 4 operações.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\obj\Debug\net6.0\Calculadora de 4 operações.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\obj\Debug\net6.0\Calculadora de 4 operações.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Calculadora de 4 operações\Calculadora de 4 operações\obj\Debug\net6.0\ref\Calculadora de 4 operações.dll

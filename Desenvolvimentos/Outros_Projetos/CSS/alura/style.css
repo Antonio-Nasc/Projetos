@@ -1,0 +1,50 @@
+
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.Título-centralizado{
+    text-align: center;
+    
+    
+}
+#clube{
+    text-align: center;
+
+}
+
+.img{
+    width: 50%;
+    right: 15%;
+}
+
+.brasao{
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.itens{
+    font-style: italic;
+}
+
+.jogadores{
+    background: #a10404;
+    padding: 10px;
+    
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+
+

@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\bin\Debug\net6.0\sistemaDeAtendimento.exe
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\bin\Debug\net6.0\sistemaDeAtendimento.deps.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\bin\Debug\net6.0\sistemaDeAtendimento.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\bin\Debug\net6.0\sistemaDeAtendimento.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\bin\Debug\net6.0\sistemaDeAtendimento.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\obj\Debug\net6.0\sistemaDeAtendimento.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\obj\Debug\net6.0\sistemaDeAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\obj\Debug\net6.0\sistemaDeAtendimento.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\obj\Debug\net6.0\sistemaDeAtendimento.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\obj\Debug\net6.0\sistemaDeAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\obj\Debug\net6.0\sistemaDeAtendimento.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\obj\Debug\net6.0\refint\sistemaDeAtendimento.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\obj\Debug\net6.0\sistemaDeAtendimento.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\obj\Debug\net6.0\sistemaDeAtendimento.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\sistemaDeAtendimento\sistemaDeAtendimento\obj\Debug\net6.0\ref\sistemaDeAtendimento.dll

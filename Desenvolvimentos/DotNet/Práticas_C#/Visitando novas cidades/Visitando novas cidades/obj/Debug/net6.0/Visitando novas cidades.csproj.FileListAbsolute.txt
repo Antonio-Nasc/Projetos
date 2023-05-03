@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\bin\Debug\net6.0\Visitando novas cidades.exe
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\bin\Debug\net6.0\Visitando novas cidades.deps.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\bin\Debug\net6.0\Visitando novas cidades.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\bin\Debug\net6.0\Visitando novas cidades.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\bin\Debug\net6.0\Visitando novas cidades.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\obj\Debug\net6.0\Visitando novas cidades.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\obj\Debug\net6.0\Visitando novas cidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\obj\Debug\net6.0\Visitando novas cidades.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\obj\Debug\net6.0\Visitando novas cidades.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\obj\Debug\net6.0\Visitando novas cidades.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\obj\Debug\net6.0\Visitando novas cidades.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\obj\Debug\net6.0\refint\Visitando novas cidades.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\obj\Debug\net6.0\Visitando novas cidades.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\obj\Debug\net6.0\Visitando novas cidades.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\Visitando novas cidades\Visitando novas cidades\obj\Debug\net6.0\ref\Visitando novas cidades.dll

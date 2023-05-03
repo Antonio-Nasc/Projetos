@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color: #21771b;
+    color: #f3f3f3;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding-left: 10px;
+}
+.history{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.paragrafo{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+main{
+    padding-left: 10px;
+    min-width: 280px;
+    max-width: 999px;
+}
+picture img{
+    height: 500px;
+    width: 100%;
+}
+
+
+

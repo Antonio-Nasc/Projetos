@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\bin\Debug\net6.0\removendo valores duplicados.exe
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\bin\Debug\net6.0\removendo valores duplicados.deps.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\bin\Debug\net6.0\removendo valores duplicados.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\bin\Debug\net6.0\removendo valores duplicados.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\bin\Debug\net6.0\removendo valores duplicados.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\obj\Debug\net6.0\removendo valores duplicados.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\obj\Debug\net6.0\removendo valores duplicados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\obj\Debug\net6.0\removendo valores duplicados.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\obj\Debug\net6.0\removendo valores duplicados.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\obj\Debug\net6.0\removendo valores duplicados.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\obj\Debug\net6.0\removendo valores duplicados.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\obj\Debug\net6.0\refint\removendo valores duplicados.dll
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\obj\Debug\net6.0\removendo valores duplicados.pdb
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\obj\Debug\net6.0\removendo valores duplicados.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\EstudosFullStack\FullStack\.Net\Práticas\removendo valores duplicados\removendo valores duplicados\obj\Debug\net6.0\ref\removendo valores duplicados.dll
