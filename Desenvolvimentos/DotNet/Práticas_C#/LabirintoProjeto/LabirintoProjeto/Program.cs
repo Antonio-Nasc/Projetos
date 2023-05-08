@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Xml;
 
+
 string[,] labirinto = new string[4, 5]
 {
     {"1","0","0","0","1" },
