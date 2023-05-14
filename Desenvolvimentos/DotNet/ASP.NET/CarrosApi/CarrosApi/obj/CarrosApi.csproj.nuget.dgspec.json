@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josee\\OneDrive\\Documentos\\EstudosFullStack\\FullStack\\.Net\\ASP.NET\\CarrosApi\\CarrosApi\\CarrosApi.csproj": {}
+    "C:\\Users\\josee\\OneDrive\\Documentos\\Projetos\\Desenvolvimentos\\DotNet\\ASP.NET\\CarrosApi\\CarrosApi\\CarrosApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josee\\OneDrive\\Documentos\\EstudosFullStack\\FullStack\\.Net\\ASP.NET\\CarrosApi\\CarrosApi\\CarrosApi.csproj": {
+    "C:\\Users\\josee\\OneDrive\\Documentos\\Projetos\\Desenvolvimentos\\DotNet\\ASP.NET\\CarrosApi\\CarrosApi\\CarrosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josee\\OneDrive\\Documentos\\EstudosFullStack\\FullStack\\.Net\\ASP.NET\\CarrosApi\\CarrosApi\\CarrosApi.csproj",
+        "projectUniqueName": "C:\\Users\\josee\\OneDrive\\Documentos\\Projetos\\Desenvolvimentos\\DotNet\\ASP.NET\\CarrosApi\\CarrosApi\\CarrosApi.csproj",
         "projectName": "CarrosApi",
-        "projectPath": "C:\\Users\\josee\\OneDrive\\Documentos\\EstudosFullStack\\FullStack\\.Net\\ASP.NET\\CarrosApi\\CarrosApi\\CarrosApi.csproj",
+        "projectPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Projetos\\Desenvolvimentos\\DotNet\\ASP.NET\\CarrosApi\\CarrosApi\\CarrosApi.csproj",
         "packagesPath": "C:\\Users\\josee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josee\\OneDrive\\Documentos\\EstudosFullStack\\FullStack\\.Net\\ASP.NET\\CarrosApi\\CarrosApi\\obj\\",
+        "outputPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Projetos\\Desenvolvimentos\\DotNet\\ASP.NET\\CarrosApi\\CarrosApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josee\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1578,11 +1578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josee\\OneDrive\\Documentos\\EstudosFullStack\\FullStack\\.Net\\ASP.NET\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
+      "projectUniqueName": "C:\\Users\\josee\\OneDrive\\Documentos\\Projetos\\Desenvolvimentos\\DotNet\\ASP.NET\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
       "projectName": "FilmesApi",
-      "projectPath": "C:\\Users\\josee\\OneDrive\\Documentos\\EstudosFullStack\\FullStack\\.Net\\ASP.NET\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
+      "projectPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Projetos\\Desenvolvimentos\\DotNet\\ASP.NET\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
       "packagesPath": "C:\\Users\\josee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josee\\OneDrive\\Documentos\\EstudosFullStack\\FullStack\\.Net\\ASP.NET\\FilmesApi\\FilmesApi\\obj\\",
+      "outputPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Projetos\\Desenvolvimentos\\DotNet\\ASP.NET\\FilmesApi\\FilmesApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josee\\AppData\\Roaming\\NuGet\\NuGet.Config",

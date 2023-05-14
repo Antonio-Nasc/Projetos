@@ -4,6 +4,8 @@ namespace CarrosApi.Models
 {
     public class Carro
     {
+        [Key]
+        [Required]
         public int Id { get; set; }
         [Required]
         [MaxLength(100, ErrorMessage = "Máximo de caracteres = 100")]

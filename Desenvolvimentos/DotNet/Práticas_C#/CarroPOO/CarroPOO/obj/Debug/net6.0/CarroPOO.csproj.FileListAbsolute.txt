@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\bin\Debug\net6.0\CarroPOO.exe
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\bin\Debug\net6.0\CarroPOO.deps.json
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\bin\Debug\net6.0\CarroPOO.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\bin\Debug\net6.0\CarroPOO.dll
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\bin\Debug\net6.0\CarroPOO.pdb
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\obj\Debug\net6.0\CarroPOO.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\obj\Debug\net6.0\CarroPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\obj\Debug\net6.0\CarroPOO.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\obj\Debug\net6.0\CarroPOO.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\obj\Debug\net6.0\CarroPOO.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\obj\Debug\net6.0\CarroPOO.dll
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\obj\Debug\net6.0\refint\CarroPOO.dll
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\obj\Debug\net6.0\CarroPOO.pdb
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\obj\Debug\net6.0\CarroPOO.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\CarroPOO\CarroPOO\obj\Debug\net6.0\ref\CarroPOO.dll

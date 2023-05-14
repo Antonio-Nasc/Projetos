@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josee\\OneDrive\\Documentos\\EstudosFullStack\\FullStack\\.Net\\ASP.NET\\RoupaApi\\RoupaApi\\RoupaApi.csproj",
+      "projectUniqueName": "C:\\Users\\josee\\OneDrive\\Documentos\\Projetos\\Desenvolvimentos\\DotNet\\ASP.NET\\RoupaApi\\RoupaApi\\RoupaApi.csproj",
       "projectName": "RoupaApi",
-      "projectPath": "C:\\Users\\josee\\OneDrive\\Documentos\\EstudosFullStack\\FullStack\\.Net\\ASP.NET\\RoupaApi\\RoupaApi\\RoupaApi.csproj",
+      "projectPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Projetos\\Desenvolvimentos\\DotNet\\ASP.NET\\RoupaApi\\RoupaApi\\RoupaApi.csproj",
       "packagesPath": "C:\\Users\\josee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josee\\OneDrive\\Documentos\\EstudosFullStack\\FullStack\\.Net\\ASP.NET\\RoupaApi\\RoupaApi\\obj\\",
+      "outputPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Projetos\\Desenvolvimentos\\DotNet\\ASP.NET\\RoupaApi\\RoupaApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josee\\AppData\\Roaming\\NuGet\\NuGet.Config",

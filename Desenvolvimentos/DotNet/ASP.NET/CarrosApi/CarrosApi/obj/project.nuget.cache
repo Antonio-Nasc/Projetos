@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VrLNbgMPpssuggEmPd8nSQm7nq9YkHcz3sw8qp+pZxiuxmMLvkSRpE0aAF+N3DbjY1r9j4t/O2WLNxW+BTlifA==",
+  "dgSpecHash": "z7lgRVAI6i30SlBx+PWB9HjCsFeEyBbkJMKBC8z+a5uDeFr1z4I1W7vBc7T1567MyRZy8Cv1kf4BtSQ0MZC+fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josee\\OneDrive\\Documentos\\EstudosFullStack\\FullStack\\.Net\\ASP.NET\\CarrosApi\\CarrosApi\\CarrosApi.csproj",
+  "projectFilePath": "C:\\Users\\josee\\OneDrive\\Documentos\\Projetos\\Desenvolvimentos\\DotNet\\ASP.NET\\CarrosApi\\CarrosApi\\CarrosApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josee\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\josee\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rGr6UdeppBtx7T9WkRNLt1dXcmwjfV/MDMEUGRmM0PlCkYQeuw0GCA5FvPhIjcJKUw0F/S2emKcCE6UyMUmzAA==",
+  "dgSpecHash": "w0ucQtXJFvZSGq4LBTI3GDfWDSVgyw3GCMUqMxvSPg5BS8GWNOxyRLpl6lkwduFfiFRDA1BT/9NREr1lgMFNog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josee\\OneDrive\\Documentos\\EstudosFullStack\\FullStack\\.Net\\ASP.NET\\RoupasApi\\RoupasApi\\RoupasApi.csproj",
+  "projectFilePath": "C:\\Users\\josee\\OneDrive\\Documentos\\Projetos\\Desenvolvimentos\\DotNet\\ASP.NET\\RoupasApi\\RoupasApi\\RoupasApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josee\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\josee\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
