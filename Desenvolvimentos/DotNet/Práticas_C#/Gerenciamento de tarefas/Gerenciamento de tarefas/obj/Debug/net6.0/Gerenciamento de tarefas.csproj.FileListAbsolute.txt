@@ -13,3 +13,18 @@ C:\Users\josee\OneDrive\Documentos\Projetos\.Net\Aplicação do console\Gerencia
 C:\Users\josee\OneDrive\Documentos\Projetos\.Net\Aplicação do console\Gerenciamento de tarefas\Gerenciamento de tarefas\obj\Debug\net6.0\Gerenciamento de tarefas.pdb
 C:\Users\josee\OneDrive\Documentos\Projetos\.Net\Aplicação do console\Gerenciamento de tarefas\Gerenciamento de tarefas\obj\Debug\net6.0\Gerenciamento de tarefas.genruntimeconfig.cache
 C:\Users\josee\OneDrive\Documentos\Projetos\.Net\Aplicação do console\Gerenciamento de tarefas\Gerenciamento de tarefas\obj\Debug\net6.0\ref\Gerenciamento de tarefas.dll
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\bin\Debug\net6.0\Gerenciamento de tarefas.exe
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\bin\Debug\net6.0\Gerenciamento de tarefas.deps.json
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\bin\Debug\net6.0\Gerenciamento de tarefas.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\bin\Debug\net6.0\Gerenciamento de tarefas.dll
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\bin\Debug\net6.0\Gerenciamento de tarefas.pdb
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\obj\Debug\net6.0\Gerenciamento de tarefas.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\obj\Debug\net6.0\Gerenciamento de tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\obj\Debug\net6.0\Gerenciamento de tarefas.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\obj\Debug\net6.0\Gerenciamento de tarefas.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\obj\Debug\net6.0\Gerenciamento de tarefas.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\obj\Debug\net6.0\Gerenciamento de tarefas.dll
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\obj\Debug\net6.0\refint\Gerenciamento de tarefas.dll
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\obj\Debug\net6.0\Gerenciamento de tarefas.pdb
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\obj\Debug\net6.0\Gerenciamento de tarefas.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\Práticas_C#\Gerenciamento de tarefas\Gerenciamento de tarefas\obj\Debug\net6.0\ref\Gerenciamento de tarefas.dll

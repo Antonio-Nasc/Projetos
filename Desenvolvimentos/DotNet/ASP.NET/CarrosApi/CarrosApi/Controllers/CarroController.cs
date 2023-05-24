@@ -27,6 +27,7 @@ namespace CarrosApi.Controllers
         [HttpGet]
         public IEnumerable<Carro> ListarCarros(int skip = 0, int take = 10) 
         {
+
             return carros.Skip(skip).Take(take);
         }
     }
