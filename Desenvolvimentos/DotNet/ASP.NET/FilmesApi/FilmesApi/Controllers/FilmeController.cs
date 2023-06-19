@@ -22,7 +22,14 @@ namespace FilmesApi.Controllers
             _mapper = mapper;
         }
 
+        /// <summary>
+        /// Adiciona um filme
+        /// </summary>
+        /// <param name="filmeDto">Objetos necessários para criação de um filme</param>
+        /// <returns>IActionResult</returns>
+        /// <response code="201">Caso inserção seja feita com sucesso</response>
         [HttpPost]
+        [ProducesResponseType(StatusCodes.Status201Created)]
         public IActionResult AdicionarFilme([FromBody]CreateFilmeDto filmeDto)
         {
             Filme filme = _mapper.Map<Filme>(filmeDto);
@@ -30,12 +37,27 @@ namespace FilmesApi.Controllers
             _context.SaveChanges();
             return CreatedAtAction(nameof(RecuperaFilmePorId), new {id = filme.Id}, filme);
         }
+        /// <summary>
+        /// Obtem filmes
+        /// </summary>
+        /// <param name="filmeDto">Visualização dos filmes</param>
+        /// <returns>IEnumerable</returns>
+        /// <response code="200">Sucesso</response>
         [HttpGet]
-        public IEnumerable<ReadFilmeDto> RecuperaFilmes([FromQuery]int skip = 0, [FromQuery] int take = 50)
+        public IEnumerable<ReadFilmeDto> RecuperaFilmes([FromQuery]int skip = 0, [FromQuery] int take = 50, [FromQuery] string? nomeCinema = null)
         {
-            return _mapper.Map<List<ReadFilmeDto>>(_context.Filmes.Skip(skip).Take(take));
+            if(nomeCinema == null)
+            {
+                return _mapper.Map<List<ReadFilmeDto>>(_context.Filmes.Skip(skip).Take(take).ToList());
+            }
+            return _mapper.Map<List<ReadFilmeDto>>(_context.Filmes.Skip(skip).Take(take).Where(filme => filme.Sessoes.Any(sessao => sessao.Cinema.Nome == nomeCinema)).ToList());
         }
-
+        /// <summary>
+        /// Obtem filme específico
+        /// </summary>
+        /// <param name="filmeDto">Visualização de um filme específico</param>
+        /// <returns>IActionResult</returns>
+        /// <response code="200">Sucesso</response>
         [HttpGet("{id}")]
         public IActionResult RecuperaFilmePorId(int id)
         {
@@ -44,7 +66,12 @@ namespace FilmesApi.Controllers
             var filmeDto = _mapper.Map<ReadFilmeDto>(filme);
             return Ok(filmeDto);
         }
-
+        /// <summary>
+        /// Atualiza filme
+        /// </summary>
+        /// <param name="filmeDto">Atualização de filme específico</param>
+        /// <returns>IActionResult</returns>
+        /// <response code="200">Sucesso</response>
         [HttpPut("{id}")]
         public IActionResult AtualizaFilme(int id, [FromBody]UpdateFilmeDto filmeDto)
         {
@@ -56,6 +83,12 @@ namespace FilmesApi.Controllers
             return NoContent();
 
         }
+        /// <summary>
+        /// Atualiza filme parcial
+        /// </summary>
+        /// <param name="filmeDto">Atualização de filme específico e parcial</param>
+        /// <returns>IActionResult</returns>
+        /// <response code="200">Sucesso</response>
         [HttpPatch("{id}")]
         public IActionResult AtualizaFilmeParcial(int id, JsonPatchDocument<UpdateFilmeDto> patch)
         {
@@ -73,6 +106,12 @@ namespace FilmesApi.Controllers
             return NoContent();
 
         }
+        /// <summary>
+        /// Deleta filme específico
+        /// </summary>
+        /// <param name="filmeDto">Deleção de filme específico</param>
+        /// <returns>IActionResult</returns>
+        /// <response code="200">Sucesso</response>
         [HttpDelete("{id}")]
         public IActionResult RemoveFilme(int id)
         {

@@ -118,3 +118,7 @@ C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\ASP.NET\Film
 C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\ASP.NET\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
 C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\ASP.NET\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
 C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\ASP.NET\FilmesApi\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\ASP.NET\FilmesApi\FilmesApi\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\ASP.NET\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\ASP.NET\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.xml
+C:\Users\josee\OneDrive\Documentos\Projetos\Desenvolvimentos\DotNet\ASP.NET\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.xml

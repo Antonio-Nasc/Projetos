@@ -4,7 +4,11 @@ namespace ApiTarefas.Models
 {
     public class Tarefas
     {
+        [Required]
+        [Key]
         public int Id { get; set; }
+        [StringLength(40, ErrorMessage ="O dia deve ter no máximo 40 caracteres")]
+        public string Dia { get; set; }
         [Required]
         [StringLength(60, ErrorMessage = "Título deve ter no máximo 60 caracteres")]
         public string Titulo { get; set; }
